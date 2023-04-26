@@ -1,0 +1,6 @@
+{
+	"servo_pin":12,
+	"rocker_sw_pin":13,
+	"relay_pin_out":6,
+	"relay_pin_in":20
+}
